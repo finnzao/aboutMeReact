@@ -1,4 +1,3 @@
-import React from 'react'
 import { TypeAnimation } from 'react-type-animation';
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 function Main() {
